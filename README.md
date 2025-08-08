@@ -69,4 +69,11 @@
         </tr>
     </tbody>
 </table>
-
+<hr>
+<h2>📂 Deliverables</h2>
+<ul>
+    <li><a href="">College event feedback</a>-PDF Notebook</li>
+    <li><a href="">Cleaned_Student_Feedback- CSV File</a></li>
+</ul>
+<hr>
+<h2>🔗 LinkedIn Post:<a href="">Future Intern Task 3</a></h2>
