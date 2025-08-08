@@ -60,10 +60,6 @@
             <td>Extracting hidden themes</td>
         </tr>
         <tr>
-            <td>N-gram Analysis</td>
-            <td>Phrase detection (e.g., 'great speaker')</td>
-        </tr>
-        <tr>
             <td>WordCloud</td>
             <td>Visualizing frequent terms</td>
         </tr>
