@@ -47,7 +47,7 @@
             <td>Data cleaning &amp; manipulation</td>
         </tr>
         <tr>
-            <td>Seaborn, mMtplotlib, Plotly</td>
+            <td>Seaborn, Mtplotlib, Plotly</td>
             <td>Data visualizations</td>
         </tr>
         <tr>
