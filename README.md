@@ -19,7 +19,6 @@
 <li>seaborn, matplotlib, plotly	Data visualizations</li>
 <li>TextBlob	Sentiment analysis</li>
 <li>LDA Topic Modeling	Extracting hidden themes</li>
-<li>N-gram Analysis	Phrase detection (e.g., “great speaker”)</li>
 <li>WordCloud	Visualizing frequent terms</li>
 <li>Pie Chart Analysis	Visualizing satisfaction levels</li>
 </ul>
