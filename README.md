@@ -43,11 +43,11 @@
     </thead>
     <tbody>
         <tr>
-            <td>pandas</td>
+            <td>Pandas</td>
             <td>Data cleaning &amp; manipulation</td>
         </tr>
         <tr>
-            <td>seaborn, matplotlib, plotly</td>
+            <td>Seaborn, mMtplotlib, Plotly</td>
             <td>Data visualizations</td>
         </tr>
         <tr>
