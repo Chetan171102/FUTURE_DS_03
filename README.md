@@ -33,3 +33,42 @@
 <li>🥧 Satisfaction Breakdown – Pie chart analysis showed that Very Satisfied and Satisfied students formed the majority, with smaller portions being Neutral or Dissatisfied.</li>
 <li>☁ Word Cloud Highlights – Commonly used words include “excellent”, “helpful”, “supportive”, and “interactive”, emphasizing positive engagement.</li>
 </ul>
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; text-align: left;">
+    <thead>
+        <tr>
+            <th>Tool / Library</th>
+            <th>Purpose</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>pandas</td>
+            <td>Data cleaning &amp; manipulation</td>
+        </tr>
+        <tr>
+            <td>seaborn, matplotlib, plotly</td>
+            <td>Data visualizations</td>
+        </tr>
+        <tr>
+            <td>TextBlob</td>
+            <td>Sentiment analysis</td>
+        </tr>
+        <tr>
+            <td>LDA Topic Modeling</td>
+            <td>Extracting hidden themes</td>
+        </tr>
+        <tr>
+            <td>N-gram Analysis</td>
+            <td>Phrase detection (e.g., 'great speaker')</td>
+        </tr>
+        <tr>
+            <td>WordCloud</td>
+            <td>Visualizing frequent terms</td>
+        </tr>
+        <tr>
+            <td>Pie Chart Analysis</td>
+            <td>Visualizing satisfaction levels</td>
+        </tr>
+    </tbody>
+</table>
+
