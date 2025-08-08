@@ -75,6 +75,6 @@
     <li><a href="https://github.com/Chetan171102/FUTURE_DS_03/blob/f3d2e5ac1bc31a88d79265ac1b770323c434f53b/Cleaned_Student_Feedback.csv">Cleaned_Student_Feedback</a>- CSV File</li>
 </ul>
 <hr>
-<h2>🔗 LinkedIn Post:<a href="">Future Intern Task 3</a></h2>
+<h2>🔗 LinkedIn Post:<a href="https://www.linkedin.com/posts/chetan-singh-860b22280_college-event-analysis-activity-7359522476097196034-cNO2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESCeEgBPuC8no3kANapFSnqArftl-cB7h8">Future Intern Task 3</a></h2>
 <hr>
 <h3>🙏 Big thanks to the Future Interns team for this opportunity to work on real, meaningful projects and level up my skills!</h3>
