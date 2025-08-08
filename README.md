@@ -77,3 +77,5 @@
 </ul>
 <hr>
 <h2>🔗 LinkedIn Post:<a href="">Future Intern Task 3</a></h2>
+<hr>
+<h3>🙏 Big thanks to the Future Interns team for this opportunity to work on real, meaningful projects and level up my skills!</h3>
